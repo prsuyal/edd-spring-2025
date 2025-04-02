@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Swift / Xcode
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+*.xcuserdata/
+DerivedData/
+*.ipa
+*.app
+*.dSYM
+
+# CocoaPods (if you ever use it)
+Pods/
+
+# Carthage
+Carthage/
+
+# SwiftPM
+.build/
+Package.resolved
