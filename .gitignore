@@ -22,7 +22,7 @@ DerivedData/
 *.app
 *.dSYM
 
-# CocoaPods (if you ever use it)
+# CocoaPods
 Pods/
 
 # Carthage
